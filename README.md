@@ -39,4 +39,4 @@ This project analysis generally aims to provide insights on the day-to-day opera
 2. Data Cleaning
 4. Data Analysis
 5. Conclusion & Key Findings
-6. Reccomendations
+6. Recommendations
